@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -61,7 +61,7 @@ Publications
 | Yuchu Lin, ***KU SU WA*** |  
 | Patent Licensing in 2022. Publication number: CN114999463B.|  
 
-Honor and Awards
+Awards
 ======
 
 | Year | Honor & Awards |
