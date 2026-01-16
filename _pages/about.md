@@ -12,6 +12,7 @@ Currently, I am an engineer at large language models (LLMs) and natural language
 
 Education
 ======
+
 | Year | Education |
 | :------ | :------ | 
 | *07.2021-06.2024* | M.Sc., Department of Computer and Information Science, University of Macau, China. ([Thesis](https://umlibrary.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991010450375106306&context=L&vid=853UOM_INST:umlibrary&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,KU%20SU%20WA))|  
@@ -19,6 +20,7 @@ Education
 
 Experience
 ======
+
 | Year | Experience |
 | :------ | :------ |  
 | *08.2024-01.2026* | [Pachira (Beijing)](https://www.pachira.cn/), Automotive Division, NLP Algorithm Engineer. |
@@ -27,6 +29,7 @@ Experience
 
 Publications
 ======
+
 | **基于大模型增强的人机交互感知策略关键技术研究与应用**|   
 | :------ |   
 | ***KU SU WA***, Chenglong Ma, Ho Kuok Tou|  
@@ -59,6 +62,7 @@ Publications
 
 Honor and Awards
 ======
+
 | Year | Honor & Awards |
 | :------ | :------ |  
 | *2021* | Outstanding Undergraduates in the Department of Computer and Information Science. ((News)[https://www.fst.um.edu.mo/news/2020-2021-fst-graduates-stories-and-their-final-year-projects/]), ((Thesis)[http://oaps.umac.mo/handle/10692.1/240]).| 
