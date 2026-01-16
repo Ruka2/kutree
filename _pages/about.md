@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I received my M.Sc. degree from [NLP²CT](http://nlp2ct.cis.umac.mo/), Department of Computer and Information Science, University of Macau, under the supervision of Prof. Derek F. Wong. My core research interests are reasoning enhancement of large language models and autonomous agents.
-Currently, I am an engineer at large language models (LLMs) and natural language processing, where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles has been awarded competitive funding from the Macau foundation ((the Science and Technology Development Fund, FDCT)[https://www.fdct.gov.mo/]).
+Currently, I am an engineer at large language models (LLMs) and natural language processing, where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles has been awarded competitive funding from [Science and Technology Development Fund](https://www.fdct.gov.mo/) at Macau.
 
 Education
 ======
@@ -25,7 +25,7 @@ Experience
 | :------ | :------ |  
 | *08.2024-01.2026* | [Pachira (Beijing)](https://www.pachira.cn/), Automotive Division, NLP Algorithm Engineer. |
 | *07.2021-01.2024* | [Deeptran (Zhuhai)](https://www.deeptran.com/), Research on neutral machine translation (NMT) and automatic speech recognition (ASR), Industry-university-research cooperation with the university of Macau.|
-| *06.2019-08.2019* | Technical assistant of the (Science and Technology Development Fund, FDCT)[https://www.fdct.gov.mo/]|
+| *06.2019-08.2019* | Technical assistant of the [Science and Technology Development Fund, FDCT](https://www.fdct.gov.mo/) |
 
 Publications
 ======
@@ -53,18 +53,18 @@ Publications
 | **语料数据库、语料数据库的维护方法、装置、设备和介质**|   
 | :------ |   
 | Yuchu Lin, ***KU SU WA*** |  
-| Patent Licensing in 2022. Publication No.: CN115169370B|  
+| Patent Licensing in 2022. Publication number: CN115169370B|  
 
 | **语音识别方法、装置、设备及介质**|   
 | :------ |   
 | Yuchu Lin, ***KU SU WA*** |  
-| Patent Licensing in 2022. Publication No.: CN114999463B|  
+| Patent Licensing in 2022. Publication number: CN114999463B|  
 
 Honor and Awards
 ======
 
 | Year | Honor & Awards |
 | :------ | :------ |  
-| *2021* | Outstanding Undergraduates in the Department of Computer and Information Science. ((News)[https://www.fst.um.edu.mo/news/2020-2021-fst-graduates-stories-and-their-final-year-projects/]), ((Thesis)[http://oaps.umac.mo/handle/10692.1/240]).| 
+| *2021* | Outstanding Undergraduates in the Department of Computer and Information Science. ([News](https://www.fst.um.edu.mo/news/2020-2021-fst-graduates-stories-and-their-final-year-projects/)), ([Thesis](http://oaps.umac.mo/handle/10692.1/240)).| 
 | *2021* | 2nd Runner Up, IEEE Project Competition 2021 by IEEE Student Branch of Macau.|  
 | *2021* | 2nd Runner Up, IEEE Macau IES Chapter 2021 Undergraduate Project Contest.|
