@@ -23,23 +23,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "KU SU WA (古树桦)"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "LLM & NLP Engineer"
-  location         : # 
-  employer         : #
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "sku.contact.2024@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Ruka2"
+  github           : "ruka2"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
