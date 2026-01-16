@@ -9,7 +9,7 @@ redirect_from:
 
 I received my M.Sc. degree from the [NLP²CT](http://nlp2ct.cis.umac.mo/) lab, Department of Computer and Information Science, University of Macau, under the supervision of Prof. Derek F. Wong. My core research interests include the reasoning enhancement of large language models and the development of autonomous agents.
 
-Currently, I am an engineer specializing in large language models (LLMs) and natural language processing, where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles have been awarded competitive funding from the [Science and Technology Development Fund (FDCT)](https://www.fdct.gov.mo/) of Macau.
+Currently, I am an engineer specializing in large language models (LLM) and natural language processing (NLP), where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles have been awarded competitive funding from the [Science and Technology Development Fund (FDCT)](https://www.fdct.gov.mo/) of Macau.
 
 Education
 ======
