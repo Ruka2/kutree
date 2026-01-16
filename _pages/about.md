@@ -9,7 +9,7 @@ redirect_from:
 
 I received my M.Sc. degree from the [NLP²CT](http://nlp2ct.cis.umac.mo/) lab, Department of Computer and Information Science, University of Macau, under the supervision of Prof. Derek F. Wong. My core research interests include the reasoning enhancement of large language models and the development of autonomous agents.
 
-Currently, I am an engineer specializing in large language models (LLMs) and natural language processing, where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles have been awarded competitive funding from the [Science and Technology Development Fund](https://www.fdct.gov.mo/) of Macau.
+Currently, I am an engineer specializing in large language models (LLMs) and natural language processing, where I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles have been awarded competitive funding from the [Science and Technology Development Fund (FDCT)](https://www.fdct.gov.mo/) of Macau.
 
 Education
 ======
@@ -26,7 +26,7 @@ Experience
 | :------ | :------ |  
 | *08.2024-01.2026* | NLP Algorithm Engineer, Automotive Division, [Pachira (Beijing)](https://www.pachira.cn/). |
 | *07.2021-01.2024* | Research on neutral machine translation (NMT) and automatic speech recognition (ASR) at [Deeptran (Zhuhai)](https://www.deeptran.com/).(*Industry-university-research cooperation with the university of Macau*).|
-| *06.2019-08.2019* | Technical assistant, [Science and Technology Development Fund (FDCT)](https://www.fdct.gov.mo/). |
+| *06.2019-08.2019* | Technical assistant, Macao [FDCT](https://www.fdct.gov.mo/), (*Summer camp*)|
 
 Publications
 ======
