@@ -25,7 +25,7 @@ Experience
 | Year | Experience |
 | :------ | :------ |  
 | *08.2024-01.2026* | NLP Algorithm Engineer, Automotive Division, [Pachira (Beijing)](https://www.pachira.cn/). |
-| *07.2021-01.2024* | Research on neutral machine translation (NMT) and automatic speech recognition (ASR) at [Deeptran (Zhuhai)](https://www.deeptran.com/).(*Industry-university-research cooperation with the university of Macau*).|
+| *07.2021-01.2024* | Research on neutral machine translation (NMT) and automatic speech recognition (ASR) at [Deeptran (Zhuhai)](https://www.deeptran.com/),(*Industry-university-research cooperation with the university of Macau*).|
 | *06.2019-08.2019* | Technical assistant, Macao [FDCT](https://www.fdct.gov.mo/), (*Summer camp*)|
 
 Publications
