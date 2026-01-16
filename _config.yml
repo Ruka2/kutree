@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Personnel Homepage"
+title                    : "KU SU WA"
 title_separator          : "-"
 name                     : &name "KU SU WA"
 description              : &description "personal description"
 url                      : https://ruka2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ruka2/kutree"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "KU SU WA (古树桦)"
   pronouns         : # example: "she/her"  
   bio              : "LLM & NLP Engineer"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "sku.contact.2024@gmail.com" 
 
