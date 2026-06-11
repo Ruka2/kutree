@@ -16,7 +16,7 @@ Education
 
 | Year | Education |
 | :------ | :------ | 
-| *07.2021-06.2024* | M.Sc., Department of Computer and Information Science, University of Macau, China. [[Thesis]](https://umlibrary.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991010450375106306&context=L&vid=853UOM_INST:umlibrary&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,KU%20SU%20WA))|  
+| *07.2021-06.2024* | M.Sc., Department of Computer and Information Science, University of Macau, China. [[Thesis]](https://umlibrary.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991010450375106306&context=L&vid=853UOM_INST:umlibrary&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,KU%20SU%20WA)|  
 | *08.2017-06.2021* | B.Sc., Department of Computer and Information Science, University of Macau, China.|
 
 Experience
@@ -49,7 +49,7 @@ Publications
 | **Self-GAR: Self-reflection for Generative Adversarial Reasoning in Large Language Models**|   
 | :------ |   
 | ***KU SU WA***|  
-| Master's thesis, 2024, University of Macau. [[Online Version]](https://umlibrary.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991010450375106306&context=L&vid=853UOM_INST:umlibrary&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,KU%20SU%20WA). |  
+| Master's thesis, 2024, University of Macau. [[Online Version]](https://umlibrary.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991010450375106306&context=L&vid=853UOM_INST:umlibrary&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,KU%20SU%20WA) |  
 
 | **Corpus-Database Construction and Maintenance: Method, Apparatus, Device and Medium (语料数据库、语料数据库的维护方法、装置、设备和介质)**|   
 | :------ |   
