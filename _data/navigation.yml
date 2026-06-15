@@ -12,7 +12,7 @@ main:
     url: /
   
   - title: "Resume"
-    url: /cv/
+    url: /resume/
 
   # - title: "Awards"
   #   url: /#awards

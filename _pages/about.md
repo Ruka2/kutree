@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my M.Sc. degree from the [NLP²CT](http://nlp2ct.cis.umac.mo/) lab, Department of Computer and Information Science, University of Macau, under the supervision of Prof. Derek F. Wong. My core research interests include the reasoning enhancement of large language models and the development of autonomous agents.
+I received my M.Sc. degree from the [NLP²CT](http://nlp2ct.cis.umac.mo/) lab, Department of Computer and Information Science (CIS), University of Macau (UM), under the supervision of Prof. Derek F. Wong. My core research interests include **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and the development of **autonomous agents**!
 
-Currently, I am an engineer specializing in Large Language Models (LLMs) and Natural Language Processing (NLP), and I focus on building agent-based dialogue systems and speech-interaction solutions for leading automakers. My recent projects on intelligent-agent and conversational-AI technologies for vehicles have received competitive funding from the [Science and Technology Development Fund (FDCT)](https://www.fdct.gov.mo/) of Macau.
+As you can see, you can find on my social media (hope you dont mind) that I'm interested in anime, and Japanese culture. I also hope to introduce myself from non-technology angle -- I have tried to create my favorite characters using Live2D and painting, but I'm not very good at them. I am very glad to have made friends with the same hobbies.
+
+Currently, I am an engineer specializing in LLMs and NLP, and I focus on building agent-based dialogue systems and speech-interaction solutions.
 
 Education
 ======
@@ -24,9 +26,9 @@ Experience
 
 | Year | Experience |
 | :------ | :------ |  
-| *08.2024-01.2026* | LLM Algorithm Engineer, Automotive Division, [Pachira (Beijing)](https://www.pachira.cn/). |
-| *07.2021-01.2024* | Research on LLM, NLP, and ASR at [Deeptran (Zhuhai)](https://www.deeptran.com/), (*Industry-university-research cooperation with the University of Macau*).|
-| *06.2019-08.2019* | Technical Assistant (*Intern*), Macau [FDCT](https://www.fdct.gov.mo/).|
+| *08.2024-01.2026* | LLM algorithm engineer, automotive division, [Pachira](https://www.pachira.cn/). |
+| *07.2021-01.2024* | Researcher and engineer on LLMs, NLP, and Automatic Speech Recognition (ASR), [Deeptran](https://www.deeptran.com/), (*Industry-university-research cooperation with the University of Macau*).|
+| *06.2019-08.2019* | Technical assistant (*Intern*), Macau [FDCT](https://www.fdct.gov.mo/).|
 
 Publications
 ======
