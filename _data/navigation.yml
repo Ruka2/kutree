@@ -11,8 +11,5 @@ main:
   - title: "Profile"
     url: /
   
-  - title: "Resume"
-    url: /resume/
-
   # - title: "Awards"
   #   url: /#awards
